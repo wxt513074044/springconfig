@@ -2,3 +2,4 @@
   client:
     service-url:
       defaultZone: http://localhost:1001/eureka/
+eurekaurl: http://localhost:1001/eureka/
